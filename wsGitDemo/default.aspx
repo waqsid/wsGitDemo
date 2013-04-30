@@ -13,7 +13,7 @@
     <body>
         <form id="HtmlForm" runat="server">
             <div>
-                Test it Gt + VS 2012 !
+                Test it Git + VS 2012 !
             </div>
         </form>
     </body>
